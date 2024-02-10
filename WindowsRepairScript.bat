@@ -21,3 +21,5 @@ if %answer% == Y (
     echo Y|chkdsk %SYSTEMDRIVE% /f /r /x
     shutdown /r /t 0
 )
+echo.
+set /P ignore="System restore is complete (press any key to close the window)"
