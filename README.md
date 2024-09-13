@@ -23,4 +23,4 @@ A simple batch script that restores damaged Windows system files using the opera
 This script is open source and does not use any third-party tools that are not built into the Windows operating system.
 If you don't believe me, just open the script with Notepad and check it line by line, there's not much code there.
 In essence, this script only sequentially calls commands in the command line, which you could easily find on the
-Internet, for example, by searching for ["Repair Windows"][google-repair-windows-request] ¯\_(ツ)_/¯.
+Internet, for example, by searching for ["Repair Windows"][google-repair-windows-request] ¯\\\_(ツ)_/¯.
